@@ -1,1 +1,19 @@
-# MoM
+# Method of Moments (MoM) for 2D Scattering by a Circular PEC Cylinder
+
+Minimal and modular MATLAB implementation of the Method of Moments (MoM) for 2D electromagnetic scattering from a perfectly conducting circular cylinder under TM\(^z\) illumination.
+
+---
+
+The implementation is self–contained and requires no external toolboxes.
+
+---
+
+Although the contained example focuses on a circular cylinder, the MoM formulation used here is not restricted to circular geometries and can be easily generalized.  
+
+## How to run
+
+From MATLAB:
+
+```matlab
+cd examples
+main_circular_cylinder
