@@ -11,6 +11,10 @@ The implementation is self–contained and requires no external toolboxes.
 
 Although the contained example focuses on a circular cylinder, the MoM formulation used here is not restricted to circular geometries and can be easily generalized.  
 
+## License
+
+Released under the MIT License.
+
 ## How to run
 
 From MATLAB:
